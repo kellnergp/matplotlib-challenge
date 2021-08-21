@@ -4,6 +4,7 @@ matplotlib bootcamp homework
 
 ## Instructions
 (source: https://richmond.bootcampcontent.com/Richmond-Boot-Camp/ur-rich-data-pt-07-2021-u-c/-/tree/master/05-Matplotlib/Matplotlib%20Homework/Instructions)
+
 Tasks are to do the following:
 
 
